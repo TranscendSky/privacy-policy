@@ -1,0 +1,85 @@
+Privacy Policy
+
+Last Updated: April 6, 2026
+
+1. INTRODUCTION
+
+This Privacy Policy ("Policy") applies to our browser extension ("Extension") and explains how we handle, process, and protect your personal information. As a personal developer, we are committed to protecting your privacy and ensuring transparency about our data practices.
+
+2. WHAT INFORMATION WE COLLECT
+
+Our Extension is an AI-powered data structure visualization and algorithm learning tool. We collect and process the following types of information:
+
+- User Account Information: Email, username, and registration data for account management
+- Chat Content: Conversations between you and our AI assistant for providing algorithm learning assistance and visualizing data structures
+- Learning Interaction Data: Information about your interactions with algorithm visualizations, queries, and learning progress
+- Algorithm Queries and Context: The data structures and algorithms you explore within the Extension for visualization and learning purposes
+- Usage Data: Information about how you interact with the Extension (features used, frequency of use, visualizations viewed)
+- Technical Data: Browser type, operating system, and Extension version
+- Settings and Preferences: Your Extension configuration, user preferences, and learning preferences
+- Error Logs: Technical information about crashes or errors to improve the Extension
+
+3. HOW WE USE YOUR INFORMATION
+
+We use the collected information for the following purposes:
+
+- AI Model Training and Improvement: Your chat conversations and learning interactions help us train and improve our AI system to provide better algorithm learning assistance and more accurate data structure visualizations
+- Personalized Learning: To tailor the Extension's algorithm visualizations and AI responses to your learning level and preferences
+- User Account Management: To manage your account, authentication, and learning progress tracking
+- Data Structure Visualization: To create and optimize visualizations of data structures you query
+- Service Enhancement: To improve the Extension's functionality and user experience
+- Performance Analysis: To understand how users interact with algorithm visualizations and learning features
+- Technical Improvements: To fix bugs and technical issues
+- To comply with legal obligations
+
+4. AI MODEL TRAINING AND DATA USAGE
+
+- Chat Data for Model Training: Your chatting content with our AI assistant will be collected and used to train our machine learning models to achieve better algorithm learning assistance and visualization quality
+- Data Anonymization: When using your chat content for model training, we take reasonable steps to anonymize or pseudonymize personal information
+- Opt-Out Options: Users can manage their data sharing preferences through their account settings
+
+5. DATA STORAGE AND SECURITY
+
+- Registration data and account information are securely stored on our servers
+- Chat content and learning data may be transmitted to our servers for AI model training and service improvement
+- All data transmissions are encrypted using industry-standard security protocols
+- We implement reasonable security measures including encryption, access controls, and regular security audits to protect your information
+- Password data is hashed and never stored in plain text
+
+6. THIRD-PARTY SERVICES
+
+Our Extension may use Google Chrome's built-in services and APIs. Please refer to Google's Privacy Policy (https://policies.google.com/privacy) for information about how Google processes data.
+
+7. DATA RETENTION
+
+We retain information only for as long as necessary to provide the Extension's services. You can delete all local data by uninstalling the Extension.
+
+8. YOUR RIGHTS
+
+You have the right to:
+
+- Access what information we collect about you
+- Request deletion of your data
+- Opt-out of data collection where applicable
+- Uninstall the Extension at any time
+
+9. CHILDREN'S PRIVACY
+
+Our Extension is not intended for users under 13 years old. We do not knowingly collect information from children. If you believe we have collected information from a child, please contact us immediately.
+
+10. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. Significant changes will be communicated through the Extension or our official channels. Your continued use of the Extension after changes indicates your acceptance of the updated Policy.
+
+11. CONTACT US
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
+
+Developer Contact Information:
+- Email: 2327584078@qq.com
+- Phone: +86 13225730720
+
+---
+
+Document Version: 1.0
+Last Modified: April 6, 2026
